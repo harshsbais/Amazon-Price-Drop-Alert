@@ -74,6 +74,7 @@ lxml
 
 ## Future feature
 ```text
-Script running in background for long and checking after every 1 hour
+** Script running in background for long and checking after every 1 hour **
+
 Complete standalone GUI app for MacOS and later for Windows
 ```
