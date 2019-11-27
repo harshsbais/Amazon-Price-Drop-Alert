@@ -66,12 +66,10 @@ There may be two problem of it.
 ## Dependencies
 ```text
 Python 3
-lxml
-json
-requests
+bs4
+PyQtWebEngine
 smtplib
-MIMEText
-ConfigParser, argparse, urlparse
+lxml
 ```
 
 ## Future feature
