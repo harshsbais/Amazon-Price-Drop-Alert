@@ -59,6 +59,9 @@ There may be two problem of it.
 
 2.The item selector changed
 
+### App-Format
+![](./images/app.png)
+
 ### Email-Format
 ![](./images/screen.png)
 
