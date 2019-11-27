@@ -1,4 +1,4 @@
-# Amazon-Price-Alert
+# Amazon-Price-Drop-Alert
 
 ![](./images/icon.png)
 
