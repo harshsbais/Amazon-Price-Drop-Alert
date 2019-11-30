@@ -27,7 +27,7 @@ After installed required package, you can use it by
 
 
 #### url
-Get url from your amazon of you location. For example : URL of Amazon IN is `https://www.amazon.in/dp/`
+Get url from your amazon of you location. For example : URL of Amazon IN is `https://www.amazon.in/dp/...`
  
 
 #### price
