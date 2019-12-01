@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import smtplib
-from lxml import html
 import time
+from lxml import html
 import sys
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtCore import QUrl
@@ -47,9 +47,12 @@ name = ""
 p = 0
 ex_price = 0.0
 usr_email = ""
+flag=0
 
 
 def check_price():
+    flag = 1
+    #print("*********************************************************************")
     name = entry_1.get()
     p = entry_2.get()
     ex_price = float(p)
@@ -57,24 +60,30 @@ def check_price():
     client_response = Client(name)
     source = client_response.html
     soup = BeautifulSoup(source, 'html.parser')
-    title=soup.find('span', id ='productTitle').get_text().strip()
-    label_4 = Label(root, text=title)
-    label_4.grid(row=4, column=0)
+    try:
+        title=soup.find('span', id ='productTitle').get_text().strip()
+        label_4 = Label(root, text=title)
+        label_4.grid(row=4, column=1)
+    except AttributeError:
+        title = "Wrong URL"
+        label_4 = Label(root, text=title)
+        label_4.grid(row=4, column=1)
+        exit()
     try:
         price = soup.find('span', id ='priceblock_dealprice').get_text().strip()
         x="The item is currently discounted at : "+price
         label_5 = Label(root, text=x)
-        label_5.grid(row=5, column=0)
+        label_5.grid(row=5, column=1)
     except AttributeError:
         try:
             price = soup.find('span', id ='priceblock_ourprice').get_text().strip()
             x = "The product is not discounted currently and Currently the price is : "+price
             label_5 = Label(root, text=x)
-            label_5.grid(row=5, column=0)
+            label_5.grid(row=5, column=1)
         except AttributeError:
             x = "Product Unavailable!!"
             label_5 = Label(root, text=x)
-            label_5.grid(row=5, column=0)
+            label_5.grid(row=5, column=1)
             exit()
     px = ""
     for ch in price:
@@ -87,10 +96,13 @@ def check_price():
     else: 
         x = "The price is not currently below the price at which you would like to buy"
         label_6 = Label(root, text=x)
-        label_6.grid(row=6, column=0)
+        label_6.grid(row=6, column=1)
+        self.after(10, self.check_price)
 
 
 def send_mail(name, usr_email):
+    # print("*************************\n")
+    # print(name+" "+usr_email)
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
@@ -102,7 +114,7 @@ def send_mail(name, usr_email):
     server.sendmail('amazon.price.drop1@gmail.com', usr_email, message)
     x = "Mail has been sent"
     label_6 = Label(root, text=x)
-    label_6.grid(row=6, column=0)
+    label_6.grid(row=6, column=1)
     server.quit()
 
 #################################                    GUI                    ################################
@@ -112,23 +124,29 @@ root.title("Amazon Price Drop Alert")
 
 label_1 = Label(root, text="Please Enter the URL:")
 entry_1 = Entry(root)
+#button_1 = Button(root, text="Click to enter URL", command=enter_url)
 
 label_2 = Label(root, text="Please Enter the Price:")
 entry_2 = Entry(root)
+#button_2 = Button(root, text="Click to enter price", command=enter_price)
 
 label_3 = Label(root, text="Please Enter your email address:")
 entry_3 = Entry(root)
+#button_3 = Button(root, text="Click to enter email", command=enter_email)
 
 button_4 = Button(root, text="Click to check", command=check_price)
 
 label_1.grid(row=0, column=0)
-entry_1.grid(row=0, column=1)
+entry_1.grid(row=0, column=2)
+#button_1.grid(row=0, column=2)
 
 label_2.grid(row=1, column=0)
-entry_2.grid(row=1, column=1)
+entry_2.grid(row=1, column=2)
+#button_2.grid(row=1, column=2)
 
 label_3.grid(row=2, column=0)
-entry_3.grid(row=2, column=1)
+entry_3.grid(row=2, column=2)
+#button_3.grid(row=2, column=2)
 
 button_4.grid(row=3, column=1)
 
