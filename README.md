@@ -34,7 +34,7 @@ Get url from your amazon of you location. For example : URL of Amazon IN is `htt
 You need to put the price at which you would like to buy
 
 #### email-address
-Enter email address of which you have access as mail will be sent when price drops below your expeced price
+Enter email address of which you have access as mail will be sent when price drops below your expected price
 
 
 ### How to run python script? 
