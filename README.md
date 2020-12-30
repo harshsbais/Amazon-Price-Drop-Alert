@@ -12,7 +12,7 @@ This script will send you an email when the price for specific items you followe
 
 
 ## Installation
-`pip install -r requiremnts.txt`
+`pip install -r requirements.txt`
 
 
 
