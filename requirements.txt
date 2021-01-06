@@ -2,3 +2,5 @@ bs4
 lxml
 PyQtWebEngine
 requests
+webdriver-manager
+selenium
