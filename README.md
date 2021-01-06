@@ -73,6 +73,8 @@ bs4
 PyQtWebEngine
 smtplib
 lxml
+webdriver-manager
+selenium
 ```
 
 ## Future feature
