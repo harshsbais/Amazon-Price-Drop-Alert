@@ -1,6 +1,8 @@
 <p align="center">
     <h1 align="center">Amazon-Price-Drop-Alert</h1>
     ![](./images/icon.png)
+This script will send you an email when the price for specific items you followed on Amazon drops beneath a certain price you set.
+
 </p> 
 
 <p align="center">
@@ -18,8 +20,6 @@
 </p>
 
 
-
-This script will send you an email when the price for specific items you followed on Amazon drops beneath a certain price you set.
 
 
 **You can parse the price without Amazon API !**
