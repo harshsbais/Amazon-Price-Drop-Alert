@@ -1,13 +1,12 @@
 <p align="center">
 <h1 align="center">Amazon-Price-Drop-Alert</h1>
-<img src = "images/icon.png">
+<img align = "center" src = "images/icon.png">
 This script will send you an email when the price for specific items you followed on Amazon drops beneath a certain price you set.
 
 </p> 
 
 <p align="center">
     
-
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
 [![License](https://img.shields.io/github/license/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/blob/main/LICENSE)
 [![Stargazers](https://img.shields.io/github/stars/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/stargazers)
