@@ -1,4 +1,20 @@
-# Amazon-Price-Drop-Alert
+<p align="center">
+    <h1 align="center">Amazon-Price-Drop-Alert</h1>
+</p> 
+
+<p align="center">
+    
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
+[![License](https://img.shields.io/github/license/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/blob/main/LICENSE)
+[![Stargazers](https://img.shields.io/github/stars/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/stargazers)
+[![Issues](https://img.shields.io/github/issues/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
+[![Contributors](https://img.shields.io/github/contributors/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
+[![Top Language](https://img.shields.io/github/languages/top/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert)
+[![Pull Request](https://img.shields.io/github/issues-pr/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/pulls)
+[![Forks](https://img.shields.io/github/forks/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/network/members)
+
+</p>
 
 ![](./images/icon.png)
 
