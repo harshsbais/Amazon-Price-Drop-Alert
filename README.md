@@ -7,7 +7,9 @@
 
 
 <p align="center">
-    
+	
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
 [![Stargazers](https://img.shields.io/github/stars/harshsbais/Amazon-Price-Drop-Alert)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/stargazers)
 [![Issues](https://img.shields.io/github/issues/harshsbais/Amazon-Price-Drop-Alert)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
