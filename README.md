@@ -26,8 +26,11 @@
 
 </p>
 
-
+<p align="center">
 <img align = "center" src = "images/icon.png">
+</p> 
+
+
 This script will send you an email when the price for specific items you followed on Amazon drops beneath a certain price you set.
 
 **You can parse the price without Amazon API !**
