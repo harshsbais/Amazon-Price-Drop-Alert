@@ -10,7 +10,6 @@ This script will send you an email when the price for specific items you followe
 <p align="center">
     
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
-[![License](https://img.shields.io/github/license/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/blob/main/LICENSE)
 [![Stargazers](https://img.shields.io/github/stars/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/stargazers)
 [![Issues](https://img.shields.io/github/issues/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
 [![Contributors](https://img.shields.io/github/contributors/harshsbais/Amazon-Price-Drop-Alert?style=for-the-badge)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
