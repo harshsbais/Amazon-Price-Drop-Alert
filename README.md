@@ -1,15 +1,46 @@
-# Amazon-Price-Drop-Alert
+<p align="center">
+<h1 align="center">Amazon-Price-Drop-Alert</h1>
+</p> 
 
-![](./images/icon.png)
 
+
+
+
+<p align="center">
+		
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
+[![Stargazers](https://img.shields.io/github/stars/harshsbais/Amazon-Price-Drop-Alert)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/stargazers)
+[![Issues](https://img.shields.io/github/issues/harshsbais/Amazon-Price-Drop-Alert)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/issues)
+[![Contributors](https://img.shields.io/github/contributors/harshsbais/Amazon-Price-Drop-Alert)](https://img.shields.io/github/contributors/thinktocode/COVID-19-Tracker)
+[![Top Language](https://img.shields.io/github/languages/top/harshsbais/Amazon-Price-Drop-Alert)](https://github.com/harshsbais/Amazon-Price-Drop-Alert)
+[![Pull Request](https://img.shields.io/github/issues-pr/harshsbais/Amazon-Price-Drop-Alert)](https://github.com/harshsbais/Amazon-Price-Drop-Alert/pulls)
+[![Forks](https://img.shields.io/github/forks/harshsbais/Amazon-Price-Drop-Alert)](https://github.com//harshsbais/Amazon-Price-Drop-Alert/network/members)
+
+</p>
+
+<p align="center">
+<img align = "center" src = "images/icon.png">
+
+
+</p> 
+
+
+<p align="center">
 This script will send you an email when the price for specific items you followed on Amazon drops beneath a certain price you set.
-
 
 **You can parse the price without Amazon API !**
 
 
 
-
+</p> 
 
 ## Installation
 `pip install -r requirements.txt`
