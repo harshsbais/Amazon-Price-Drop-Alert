@@ -47,11 +47,500 @@
    'C:\\Users\\Amit kumar '
    'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\amazon.py',
    'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python38.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\python38.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('libGLESv2.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('d3dcompiler_47.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('libEGL.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('opengl32sw.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('lxml.etree',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\etree.cp38-win32.pyd',
+   'EXTENSION'),
+  ('lxml._elementpath',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\_elementpath.cp38-win32.pyd',
+   'EXTENSION'),
+  ('lxml.html.diff',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\html\\diff.cp38-win32.pyd',
+   'EXTENSION'),
+  ('lxml.html.clean',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\html\\clean.cp38-win32.pyd',
+   'EXTENSION'),
+  ('lxml.objectify',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\objectify.cp38-win32.pyd',
+   'EXTENSION'),
+  ('lxml.builder',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\builder.cp38-win32.pyd',
+   'EXTENSION'),
+  ('lxml.sax',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\sax.cp38-win32.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\_cffi_backend.cp38-win32.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.cp38-win32.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._constant_time',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_constant_time.cp38-win32.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('win32wnet',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\win32\\win32wnet.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtCore',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtWidgets',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtGui',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5.sip',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\sip.cp38-win32.pyd',
+   'EXTENSION'),
+  ('Qt5Core.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('Qt5Gui.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('Qt5Widgets.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('Qt5WebSockets.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('Qt5Quick.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('Qt5Network.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('pywintypes38.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\Lib\\site-packages\\pywin32_system32\\pywintypes38.dll',
+   'BINARY'),
+  ('python3.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\python3.dll',
+   'BINARY'),
+  ('MSVCP140_1.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('Qt5QmlModels.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('Qt5Qml.dll',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Amit kumar '
+   'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\build\\amazon\\base_library.zip',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\LICENSE.PSF',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\Include\\pyconfig.h',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\isDisplayed.js',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\x86\\x_ignore_nofocus.so',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\x86\\x_ignore_nofocus.so',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\RECORD',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\RECORD',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\AUTHORS.rst',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\AUTHORS.rst',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\METADATA',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\METADATA',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\WHEEL',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\WHEEL',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\bin\\qt.conf',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt.conf',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\LICENSE.APACHE',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_tr.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\amd64\\x_ignore_nofocus.so',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\amd64\\x_ignore_nofocus.so',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\LICENSE',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\LICENSE.BSD',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver.xpi',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver.xpi',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\getAttribute.js',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\INSTALLER',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\top_level.txt',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.8.egg-info\\REQUESTED',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography-2.9.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'C:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'DATA'),
   ('amazon.exe.manifest',
    'C:\\Users\\Amit kumar '
    'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\build\\amazon\\amazon.exe.manifest',
-   'BINARY')],
- True,
+   'BINARY'),
+  ('pyi-windows-manifest-filename amazon.exe.manifest', '', 'OPTION')],
+ False,
  False,
  False,
  [])
