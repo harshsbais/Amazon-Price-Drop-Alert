@@ -1,0 +1,57 @@
+('C:\\Users\\Amit kumar '
+ 'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\build\\amazon\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Amit kumar '
+   'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\build\\amazon\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\amit kumar '
+   'mishra\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Amit kumar '
+   'mishra\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'C:\\Users\\Amit kumar '
+   'mishra\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'C:\\Users\\Amit kumar '
+   'mishra\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('amazon',
+   'C:\\Users\\Amit kumar '
+   'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\amazon.py',
+   'PYSOURCE'),
+  ('amazon.exe.manifest',
+   'C:\\Users\\Amit kumar '
+   'mishra\\Desktop\\Amazon-Price-Drop-Alert\\Amazon_Price_Tracker\\build\\amazon\\amazon.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
