@@ -15,13 +15,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </b></sub></a><br />
        <td align="center"><a href="https://github.com/Khimit"><img src="https://avatars0.githubusercontent.com/u/46605529?s=460&u=7d782c84315c0fe81ba2e12e00170798cd1fd4ed&v=4" width="100px;" alt=""/><br /><sub><b>Khimit
 </b></sub></a><br />
-       <td align="center"><a href="https://github.com/sandheepp"><img src="https://avatars0.githubusercontent.com/u/42427892?s=400&u=5adce2199589e33a96b6a0710ab973cb1ae5c2c8&v=4" width="100px;" alt=""/><br /><sub><b>Sandheep P
+       <td align="center"><a href="https://github.com/tharunc"><img src="https://avatars0.githubusercontent.com/u/68283386?s=460&v=4" width="100px;" alt=""/><br /><sub><b>tharunc 
 </b></sub></a><br />
-       <td align="center"><a href="https://github.com/pavitrashah"><img src="https://avatars1.githubusercontent.com/u/47504253?s=400&u=1a8fd8d69b7f06aa621bfe1ebaeee457fe3eaa3f&v=4" width="100px;" alt=""/><br /><sub><b>Pavitra Shah
+       <td align="center"><a href="https://github.com/amanchande"><img src="https://avatars2.githubusercontent.com/u/40210413?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Aman Chande 
 </b></sub></a><br />
-       <td align="center"><a href="https://github.com/anupamhaldkar"><img src="https://avatars0.githubusercontent.com/u/48323127?s=400&u=ff3347d7e6e4987c0923f830b0c094a5edb2dcd3&v=4" width="100px;" alt=""/><br /><sub><b>Anupam Haldkar
+       <td align="center"><a href="https://github.com/Rohit-bisht-rise
+"><img src="https://avatars2.githubusercontent.com/u/61354524?s=460&u=ef331a1bb8819e7f87be96cdf1c0665b12a80a00&v=4" width="100px;" alt=""/><br /><sub><b>Rohit Bisht
 </b></sub></a><br />
        <td align="center"><a href="https://github.com/abhinavmaharana"><img src="https://avatars0.githubusercontent.com/u/59000244?s=400&u=4d68a964de00ddf1d896a16264efef9498cb89cf&v=4" width="100px;" alt=""/><br /><sub><b>Abhinav Maharana
 </b></sub></a><br />
-       <td align="center"><a href="https://github.com/Pisich"><img src="https://avatars1.githubusercontent.com/u/62033118?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Carlos
+       <td align="center"><a href="https://github.com/musavveer"><img src="https://avatars1.githubusercontent.com/u/62888562?s=460&u=584c4b33d04caae5c200f29e19a26ffdcfe49393&v=4" width="100px;" alt=""/><br /><sub><b>Musavveer Rehaman
 </b></sub></a><br />
