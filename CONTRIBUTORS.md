@@ -1,10 +1,7 @@
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 <table>
   <tr>
       <td align="center"><a href="https://github.com/harshsbais"><img src="https://avatars1.githubusercontent.com/u/43093686?s=460&u=62860f0fa1d2f99a341434cff702a3010d9319bf&v=4" width="100px;" alt=""/><br /><sub><b>Harsh Singh Bais 
@@ -25,3 +22,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
        <td align="center"><a href="https://github.com/musavveer"><img src="https://avatars1.githubusercontent.com/u/62888562?s=460&u=584c4b33d04caae5c200f29e19a26ffdcfe49393&v=4" width="100px;" alt=""/><br /><sub><b>Musavveer Rehaman
 </b></sub></a><br />
      
+<!-- ALL-CONTRIBUTORS-LIST:END - Do not remove or modify this section -->
