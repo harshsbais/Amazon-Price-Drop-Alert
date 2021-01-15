@@ -42,7 +42,7 @@ This script will send you an email when the price for specific items you followe
 
 </p> 
 
-## Installation
+## Installation 🖥
 `pip install -r requirements.txt`
 
 
@@ -51,24 +51,25 @@ This script will send you an email when the price for specific items you followe
 After installed required package, you can use it by
 `python amazon.py`
 
-## Required Accounts
+## Required Accounts 📱
 ```text
 1. Google Mail
 ```
 
 
-#### url
+#### url 🔗
 Get url from your amazon of your location. For example : URL of Amazon IN is `https://www.amazon.in/dp/...`
  
 
-#### price
+#### price 💵
 You need to put the price at which you would like to buy
 
-#### email-address
+#### email-address ➕
 Enter email address of which you have access as mail will be sent when price drops below your expected price
 
 
 ### How to run python script? 
+<img src="https://media.giphy.com/media/XruiX7uNiRE4CvFZEs/giphy.gif" width="40%">
 #### Step 1.
 After installing all the dependencies run amazon.py
 #### Step 2.
@@ -90,14 +91,14 @@ There may be two problem of it.
 
 2.The item selector changed
 
-### App-Format
+### App-Format 
 ![](./images/app.png)
 
 ### Email-Format
 ![](./images/screen.png)
 
 
-## Dependencies
+## Dependencies 👇
 ```text
 Python 3
 bs4
@@ -108,7 +109,7 @@ webdriver-manager
 selenium
 ```
 
-## Future feature
+## Future feature 👇
 ```text
 ** Script running in background for long and checking after every 1 hour **
 
@@ -116,3 +117,12 @@ selenium
 
 ** Mail will include a graph of price using matplotlib **
 ```
+
+## Open-source Programs 👩‍💻
+
+#### DWoC(Devscript Winter of Code)
+
+
+
+Winter of Code is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution. It aims to bring students into the world of open source development and see the power of unified problem solving in real time.
+<img src="https://devscript.tech/woc/img/WOC-logo.png" width="40%">  
