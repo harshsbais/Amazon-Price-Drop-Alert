@@ -116,3 +116,8 @@ selenium
 
 ** Mail will include a graph of price using matplotlib **
 ```
+## 🧐 Code of Conduct
+You can find our Code of Conduct [here](https://github.com/harshsbais/Amazon-Price-Drop-Alert/blob/master/Code_Of_Conduct.md).
+
+## 💥 How to Contribute ?
+Checkout the contributing file [here](https://github.com/harshsbais/Amazon-Price-Drop-Alert/blob/master/CONTRIBUTING.md).
