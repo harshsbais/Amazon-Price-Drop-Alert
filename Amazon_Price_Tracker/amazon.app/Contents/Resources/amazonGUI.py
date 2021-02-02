@@ -1,1 +1,0 @@
-/Users/aswin/Desktop/Amazon-Price-Drop-Alert/Amazon_Price_Tracker/gui/amazonGUI.py
