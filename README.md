@@ -7,43 +7,42 @@ This script will send you an email when the price for specific items you followe
 
 **You can parse the price without Amazon API !**
 
+## Running the Project 
+* Download the project
+* Install dependencies through `$ pip install -r requirements.txt `
+* After installing all the dependencies run `$ python amazon.py`
+* Enter all information
+* Push the button and let the magic happen.
 
-
-
-
-## Installation
-`pip install -r requirements.txt`
-
-
-
-
-After installed required package, you can use it by
-`python amazon.py`
-
-## Required Accounts
-```text
-1. Google Mail
-```
-
-
-#### url
+## Inputs Required
+#### URL
 Get url from your amazon of your location. For example : URL of Amazon IN is `https://www.amazon.in/dp/...`
  
 
-#### price
+#### Price
 You need to put the price at which you would like to buy
 
-#### email-address
+#### Email_Address
 Enter email address of which you have access as mail will be sent when price drops below your expected price
 
 
-### How to run python script? 
-#### Step 1.
-After installing all the dependencies run amazon.py
-#### Step 2.
-Enter all information
-#### Step 3.
-Push the button and let the magic happen.
+## Contributing
+
+### Setting-up the Python project 
+* Download and install Git.
+* Fork the Repository.
+* Clone the repository to your local machine `$ git clone https://github.com/<your-github-username>/Amazon-Price-Drop-Alert.git`
+* Change directory to DogeChat `$ cd Amazon-Price-Drop-Alert`
+* Add a reference to the original repository  
+   `$ git remote add upstream https://github.com/harshsbais/Amazon-Price-Drop-Alert.git`
+* `$ pip install -r requirements.txt`
+* `$ cd App`
+* `$ python amazon.py`
+### Contributing Guidelines 
+  * Feel free to open an issue to report a bug or request a new feature.
+  * Before starting to work on an issue, comment on that issue that you want to work on this and then only start to code.
+  * Create a new branch with a related name of the motive i.e. bug/refactor/feature and commit your changes in that branch
+  * For more extensive guidelines, kindly check the [CONTRIBUTING.md](https://github.com/harshsbais/Amazon-Price-Drop-Alert/blob/master/CONTRIBUTING.md)🤝
 
 ## Limitation
 #### Checking interval time limitation
@@ -52,12 +51,12 @@ This code use some skill preventing banned by Amazon. However, the best interval
 ### Why my script can't get price from Amazon?
 There may be two problem of it.
 
-1.Your ip was banned by Amazon
+* Your IP was banned by Amazon
 
-	Change your IP or wait for unban.
+	* Change your IP or wait for unban.
 
 
-2.The item selector changed
+* The item selector changed
 
 ### App-Format
 ![](./images/app.png)
@@ -69,12 +68,12 @@ There may be two problem of it.
 ## Dependencies
 ```text
 Python 3
-bs4
+BS4
 PyQtWebEngine
-smtplib
+SMTPlib
 lxml
-webdriver-manager
-selenium
+Webdriver-Manager
+Selenium
 ```
 
 ## Future feature
